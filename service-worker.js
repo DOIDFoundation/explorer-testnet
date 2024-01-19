@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d899d1756df656b009c9a70539cbd72c.js"
+  "/precache-manifest.17ae06a126e56a1947f614747e572398.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fantom-explorer"});
